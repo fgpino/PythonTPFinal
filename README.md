@@ -12,6 +12,11 @@ Alumno Fernando Pino
 
 Año 2023
 
+# ----- IMPORTANTE -----
+
+## El video fue subido a una carpeta de Drive, ya que Github no me lo permitió subir dado que tenía más de 25 MBytes (el video tiene 198 MBytes)
+
+
 
 ## Introducción
 
